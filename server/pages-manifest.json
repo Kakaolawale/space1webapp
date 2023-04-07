@@ -1,0 +1,17 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/allrooms/rooms": "pages/allrooms/rooms.html",
+  "/api/bookings": "pages/api/bookings.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/navlinks/about": "pages/navlinks/about.html",
+  "/navlinks/daypassbookings": "pages/navlinks/daypassbookings.html",
+  "/navlinks/booknow": "pages/navlinks/booknow.html",
+  "/navlinks/eventbookings": "pages/navlinks/eventbookings.html",
+  "/navlinks/experiences": "pages/navlinks/experiences.html",
+  "/navlinks/gallery": "pages/navlinks/gallery.html",
+  "/navlinks/overnightbookings": "pages/navlinks/overnightbookings.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

@@ -1,0 +1,84 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/2Xl8CKw2tN4481dL27ela/_buildManifest.js",
+    "static/2Xl8CKw2tN4481dL27ela/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/858-7e4bcd01ca90745d.js",
+      "static/css/4df78f2cd73d6b26.css",
+      "static/chunks/pages/index-6d4567c8aba82e81.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/css/3bffc6e548367fb3.css",
+      "static/chunks/pages/_app-f70e198e2890cf6f.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/_error-e4f561a102d9bb14.js"
+    ],
+    "/allrooms/rooms": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/allrooms/rooms-3426141834a7c3a4.js"
+    ],
+    "/navlinks/about": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/about-d162e2171c7d81ff.js"
+    ],
+    "/navlinks/booknow": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/booknow-3ac8db67c9bc3f57.js"
+    ],
+    "/navlinks/daypassbookings": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/daypassbookings-a06af31ccee8425c.js"
+    ],
+    "/navlinks/eventbookings": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/eventbookings-e2cecadc83e89281.js"
+    ],
+    "/navlinks/experiences": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/experiences-ffe5364cfe6fe8d7.js"
+    ],
+    "/navlinks/gallery": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/gallery-836c8a5605e09b5a.js"
+    ],
+    "/navlinks/overnightbookings": [
+      "static/chunks/webpack-ee7e63bc15b31913.js",
+      "static/chunks/framework-cda2f1305c3d9424.js",
+      "static/chunks/main-0c597b21730512df.js",
+      "static/chunks/pages/navlinks/overnightbookings-dfb63d4a05934117.js"
+    ]
+  },
+  "ampFirstPages": []
+}
